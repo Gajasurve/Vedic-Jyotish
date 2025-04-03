@@ -1,7 +1,7 @@
 # Vedic-Jyotish
 My Scripts related to birth time rectification and divine Jyotish calculations.
 
-Kunda.go 
+Kunda.go Takes inout with commas. If your lagna/Asendent  is Pi 19°37'27'' , give input as pi,19,37,27 . I found its easy to give in this way rather than breaking head over handing min and seconds with quotes.
 
 
 
